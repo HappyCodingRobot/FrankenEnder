@@ -3,6 +3,8 @@
 *.FCStd1
 *.fcstd2
 *.FCStd2
+*.fcstd3
+*.FCStd3
 Private
 *.bak
 *.old

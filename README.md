@@ -11,6 +11,7 @@ Files for my FrankenEnder Project: modifications to the Ender-3
 - [x] new display with full-size SDCard slot
 - [ ] design and print new housing for the now bigger board
 - [ ] design and print housing for the display/control unit
+- [ ] add a BLtouch sensor
 - [ ] ..?
 
 
