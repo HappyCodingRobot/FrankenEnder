@@ -11,7 +11,7 @@ Files for my FrankenEnder Project: modifications to the Ender-3
 - [x] new display with full-size SDCard slot
 - [ ] design and print new housing for the now bigger board
 - [ ] design and print housing for the display/control unit
-- [ ] add a BLtouch sensor
+- [X] add a BLtouch sensor
 - [ ] ..?
 
 
@@ -44,8 +44,9 @@ Date:   Tue Aug 7 13:51:36 2018 -0500
 > *more tbd*
 
 #### things afterwards
-> *tbd*
+> *tbd*  
 > sth like calibration and stuff
+> - Configure Z offset
 
 
 ### housing and stuff
