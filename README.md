@@ -33,7 +33,15 @@ Files for my FrankenEnder Project: modifications to the Ender-3
 ### the controller board
 
 #### configure the software
-> *tbd*
+Version used:
+```
+commit f891416e701ccd9e6153c20d55ac9407a0fcf017
+Author: Scott Lahteine <github@thinkyhead.com>
+Date:   Tue Aug 7 13:51:36 2018 -0500
+```
+[Configuration.h](config/Configuration.h)  
+[Configuration_adv.h](config/Configuration_adv.h)
+> *more tbd*
 
 #### things afterwards
 > *tbd*
